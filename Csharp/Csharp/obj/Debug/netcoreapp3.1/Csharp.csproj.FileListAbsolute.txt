@@ -1,0 +1,13 @@
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.exe
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.deps.json
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.json
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.dev.json
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.dll
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.pdb
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.csprojAssemblyReference.cache
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.csproj.CoreCompileInputs.cache
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfoInputs.cache
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfo.cs
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.dll
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.pdb
+D:\프로그래밍 공부\알고리즘\Algorithm_Basic\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.genruntimeconfig.cache
