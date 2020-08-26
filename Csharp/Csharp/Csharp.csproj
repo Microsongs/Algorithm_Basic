@@ -7,10 +7,12 @@
 
   <ItemGroup>
     <Compile Remove="Program.cs" />
+    <Compile Remove="Selection Sort%28선택정렬%29.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Program.cs" />
+    <None Include="Selection Sort(선택정렬).cs" />
   </ItemGroup>
 
 </Project>
