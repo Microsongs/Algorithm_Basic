@@ -7,12 +7,14 @@
 
   <ItemGroup>
     <Compile Remove="Bubble Sort%28버블정렬%29.cs" />
+    <Compile Remove="Insertion Sort%28삽입 정렬%29.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="Selection Sort%28선택정렬%29.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Bubble Sort(버블정렬).cs" />
+    <None Include="Insertion Sort(삽입 정렬).cs" />
     <None Include="Program.cs" />
     <None Include="Selection Sort(선택정렬).cs" />
   </ItemGroup>

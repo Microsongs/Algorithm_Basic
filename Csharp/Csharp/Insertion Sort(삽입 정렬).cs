@@ -20,12 +20,10 @@ namespace Csharp
             for(int i=0; i<data.Length-1; i++)
             {
                 int j = i;
-                while(data[j] > data[j + 1])
+                while(j >= 0 &&data[j] > data[j + 1])
                 {
                     Swap(ref data[j], ref data[j + 1]);
                     j--;
-                    if (j < 0)
-                        break;
                 }
             }
             for(int i=0; i<data.Length; i++)
