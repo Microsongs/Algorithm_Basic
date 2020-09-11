@@ -11,6 +11,7 @@
     <Compile Remove="Program.cs" />
     <Compile Remove="Quick Sort%28퀵정렬%29.cs" />
     <Compile Remove="Selection Sort%28선택정렬%29.cs" />
+    <Compile Remove="기초정렬1_세숫자정렬.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,6 +20,7 @@
     <None Include="Program.cs" />
     <None Include="Quick Sort(퀵정렬).cs" />
     <None Include="Selection Sort(선택정렬).cs" />
+    <None Include="기초정렬1_세숫자정렬.cs" />
   </ItemGroup>
 
 </Project>
