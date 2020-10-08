@@ -19,7 +19,6 @@ namespace Csharp
             {
                 data[i] = int.Parse(temp[i]);
             }
-
             // 각각의 데이터에 처리
             for(int i=0; i < data.Length; i++)
             {
