@@ -12,6 +12,7 @@
     <Compile Remove="Insertion Sort%28삽입 정렬%29.cs" />
     <Compile Remove="Merge Sort%28병합정렬%29.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="Queue%28큐%29.cs" />
     <Compile Remove="Quick Sort%28퀵정렬%29.cs" />
     <Compile Remove="Selection Sort%28선택정렬%29.cs" />
     <Compile Remove="Stack%28스택%29.cs" />
@@ -28,6 +29,7 @@
     <None Include="Insertion Sort(삽입 정렬).cs" />
     <None Include="Merge Sort(병합정렬).cs" />
     <None Include="Program.cs" />
+    <None Include="Queue(큐).cs" />
     <None Include="Quick Sort(퀵정렬).cs" />
     <None Include="Selection Sort(선택정렬).cs" />
     <None Include="Stack(스택).cs" />
