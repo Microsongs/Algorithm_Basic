@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Breadth First Search%28너비 우선 탐색%29.cs" />
     <Compile Remove="Bubble Sort%28버블정렬%29.cs" />
     <Compile Remove="Counting Sort%28계수정렬%29.cs" />
     <Compile Remove="Heap Sort%28힙정렬%29.cs" />
@@ -23,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Breadth First Search(너비 우선 탐색).cs" />
     <None Include="Bubble Sort(버블정렬).cs" />
     <None Include="Counting Sort(계수정렬).cs" />
     <None Include="Heap Sort(힙정렬).cs" />
