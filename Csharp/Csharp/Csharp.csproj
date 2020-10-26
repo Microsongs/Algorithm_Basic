@@ -9,6 +9,7 @@
     <Compile Remove="Breadth First Search%28너비 우선 탐색%29.cs" />
     <Compile Remove="Bubble Sort%28버블정렬%29.cs" />
     <Compile Remove="Counting Sort%28계수정렬%29.cs" />
+    <Compile Remove="Depth First Search%28깊이 우선 탐색%29.cs" />
     <Compile Remove="Heap Sort%28힙정렬%29.cs" />
     <Compile Remove="Insertion Sort%28삽입 정렬%29.cs" />
     <Compile Remove="Merge Sort%28병합정렬%29.cs" />
@@ -17,6 +18,7 @@
     <Compile Remove="Quick Sort%28퀵정렬%29.cs" />
     <Compile Remove="Selection Sort%28선택정렬%29.cs" />
     <Compile Remove="Stack%28스택%29.cs" />
+    <Compile Remove="Union_Find%28유니온파인드%29.cs" />
     <Compile Remove="기초정렬1_세숫자정렬.cs" />
     <Compile Remove="심화정렬_문자열정렬.cs" />
     <Compile Remove="심화정렬_숫자정렬하기3.cs" />
@@ -27,6 +29,7 @@
     <None Include="Breadth First Search(너비 우선 탐색).cs" />
     <None Include="Bubble Sort(버블정렬).cs" />
     <None Include="Counting Sort(계수정렬).cs" />
+    <None Include="Depth First Search(깊이 우선 탐색).cs" />
     <None Include="Heap Sort(힙정렬).cs" />
     <None Include="Insertion Sort(삽입 정렬).cs" />
     <None Include="Merge Sort(병합정렬).cs" />
@@ -39,6 +42,10 @@
     <None Include="심화정렬_문자열정렬.cs" />
     <None Include="심화정렬_숫자정렬하기3.cs" />
     <None Include="심화정렬_조금더복잡한정렬.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Union_Find(유니온파인드).cs" />
   </ItemGroup>
 
 </Project>
